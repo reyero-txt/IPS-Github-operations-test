@@ -17,4 +17,8 @@ public class Calculator {
     public int negate(int a) {
         return -a;
     }
+    public int square(int a) {
+        return a * a;
+
+    }
 }
